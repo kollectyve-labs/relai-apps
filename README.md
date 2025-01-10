@@ -1,2 +1,2 @@
 # relai-apps
-Relai Portal 
+Relai DAO Apps 
