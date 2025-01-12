@@ -1,10 +1,9 @@
 import { createRoot } from "react-dom/client";
+import Dashboard from "./components/Dashboard";
 
 const App = () => {
   return (
-    <div>
-      <img src="../assets/logo.png" alt="Relai DAO Logo" width={200} />
-    </div>
+    <Dashboard /> 
   );
 };
 
